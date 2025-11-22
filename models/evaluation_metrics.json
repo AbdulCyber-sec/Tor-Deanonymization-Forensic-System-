@@ -1,0 +1,25 @@
+{
+  "topk_accuracy": {
+    "Top-1": 0.9978666666666667,
+    "Top-3": 1.0,
+    "Top-5": 1.0,
+    "Top-10": 1.0,
+    "Top-20": 1.0,
+    "Top-50": 1.0,
+    "Top-100": 1.0
+  },
+  "mrr": 0.9989333333333333,
+  "n_classes": 500,
+  "n_features": 31,
+  "train_samples": 17510,
+  "val_samples": 3740,
+  "test_samples": 3750,
+  "best_iteration": 299,
+  "hyperparameters": {
+    "max_depth": 10,
+    "learning_rate": 0.1,
+    "n_estimators": 300,
+    "subsample": 0.8,
+    "colsample_bytree": 0.8
+  }
+}

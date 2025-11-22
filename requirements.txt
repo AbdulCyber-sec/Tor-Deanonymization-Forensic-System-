@@ -1,0 +1,28 @@
+# TOR Guard Prediction - Data Generation Requirements
+
+# Core Python
+python>=3.9
+
+# TOR Control and Parsing
+stem>=1.8.1
+
+# Data Processing
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Networking
+requests>=2.31.0
+pysocks>=1.7.1
+
+# Utilities
+python-dotenv>=1.0.0
+pyyaml>=6.0
+tqdm>=4.65.0
+colorama>=0.4.6
+
+# Async operations
+aiohttp>=3.8.0
+asyncio
+
+# CSV and data handling
+csv
